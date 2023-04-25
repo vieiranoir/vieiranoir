@@ -30,5 +30,7 @@
   
   </div>
   
+  ![Snake animation](https://github.com/vieiranoir/vieiranoir/blob/output/github-contribution-grid-snake.svg)
+  
   
   
