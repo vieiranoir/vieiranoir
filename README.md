@@ -1,4 +1,4 @@
-### Hello and welcome stranger! 👋
+### Welcome stranger! 👋
 
 - 🔭 Full-Stack Developer.
 - 🎮 Gamer.
